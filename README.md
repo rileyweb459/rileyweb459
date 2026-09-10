@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Riley (@rileyweb459) 👋
 
-<!--
-**rileyweb459/rileyweb459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps engineer based in Taipei. Mostly spend days migrating workloads, writing glue scripts, and trying to keep Kubernetes clusters from falling over.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🛠️ Standardizing CI/CD pipelines with GitHub Actions.
+- 📦 Managing infra as code with Terraform.
+- 📖 Diving deeper into eBPF and container networking internals.
+- 🐧 Writing small Bash utilities to automate boring repetitive tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I touch daily
+- **Infra & Platforms:** Linux (Debian/Alpine), Docker, Kubernetes, Terraform
+- **CI/CD & Automation:** GitHub Actions, Bash, Python
+- **Monitoring:** Prometheus, Grafana
+
+#### Connect
+- Reach me via email (`rileyweb459@proton.me`) or [LinkedIn](https://linkedin.com).
+- Always down to chat about homelabs, edge routing, or cloud infra.
